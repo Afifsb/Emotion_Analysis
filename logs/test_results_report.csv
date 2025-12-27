@@ -1,0 +1,6 @@
+Description,Input,Predicted Label,Confidence Score
+Simple Positive,I love this product!,love,0.4393
+Abbreviation/Slang,r u gud? see u nxt week,love,0.4025
+Double Negation,I am not unhappy with this.,love,0.2779
+Sarcasm Test,"Oh great, another bug in the system. Exactly what I needed.",love,0.3284
+Complex Feedback,"The delivery was late, but the food was delicious.",love,0.3518

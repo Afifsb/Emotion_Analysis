@@ -1,0 +1,15 @@
+*# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Data & Models (Usually too large for GitHub)
+data/raw_data.csv
+models/emotion_model/
+
+# Logs & OS
+logs/*.log
+.DS_Store
