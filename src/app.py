@@ -108,4 +108,4 @@ if st.button("Analyze Sentiment & Emotion"):
 
 # --- 8. Footer ---
 st.markdown("---")
-st.caption("Automate Detection of Different Emotions)
+st.caption("Automate Detection of Different Emotions")
